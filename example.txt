@@ -1,0 +1,11 @@
+Fafi|Jember|5000000|27|Pria|PNS|Kontrak|1000000
+Kirno|Jakarta|10000000|30|Wanita|Wiraswasta|Milik|30000000
+Zuhal|Bekasi|30000000|22|Pria|Pegawai Swasta|Kost|100000
+zandhika|Surabaya|3600000|23|Pria|Pegawai Swasta|Kost|1000000
+Januar|Bekasi|4000000|24|Wanita|Pegawai Swasta|Kontrak|2000000
+Sarah|Jakarta|21|Wanita|Ibu Rumah Tangga|Kontrak|
+Amik|Jakarta|4000000|23|Pria|Pegawai Swasta|Kost|0
+Amel|Jakarta|0|23|Wanita|Ibu Rumah tangga|Kontrak|1000000
+Erlangga|Jakarta|15000000|28|Pria|Pegawai Swasta|Milik Sendiri|1000000
+Feby|Surabaya|10000000|27|Pria|Polisi|Milik Sendiri|0
+
